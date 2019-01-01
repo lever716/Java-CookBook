@@ -1,4 +1,4 @@
-package com.cookbook.starting;
+package src.com.cookbook.starting;
 
 public class HelloWorld {
 
