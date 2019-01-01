@@ -16,6 +16,6 @@ public class HelloWorld {
         System.out.println(a.indexOf(1));
 
         //lastIndexof
-
+        System.out.println(a.lastIndexOf(1));
     }
 }
