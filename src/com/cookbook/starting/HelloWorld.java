@@ -13,9 +13,12 @@ public class HelloWorld {
         //startIndex
         System.out.println();
         //indexof
-        System.out.println(a.indexOf(1));
+        System.out.println("indexof i :"+a.indexOf("i"));
 
         //lastIndexof
-        System.out.println(a.lastIndexOf(1));
+        System.out.println("indexof a :"+a.lastIndexOf("a"));
+
+        //substring 0
+        System.out.println("substring 0: "+ a.substring(0));
     }
 }
